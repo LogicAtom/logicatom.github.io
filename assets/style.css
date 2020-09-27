@@ -190,7 +190,7 @@ hr{
 }
 
 #times{
-    background-image: url("https://media.istockphoto.com/photos/four-gears-in-hands-picture-id956463332?k=6&m=956463332&s=612x612&w=0&h=830lps6L-CgSnV2lzQcZzdTiFTf0LH0P2tsD1XpFR5Y=");
+    background-image: ("/assets/images/event_times_backround.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
