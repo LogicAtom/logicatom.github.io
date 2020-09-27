@@ -191,7 +191,7 @@ hr{
 */
 
 #circle-cover-bg{
-    background: url("https://jigsaw.w3.org/css-validator/check/referer") no-repeat center center;
+    background: url("https://jigsaw.w3.org/css-validator/images/vcss-blue") no-repeat center center;
     height:100%;
     border-radius: 50%;
 }
