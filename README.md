@@ -64,6 +64,8 @@ Bugs Found during testing:
 
 Below is a screenshot of the Social Media bug on the index.html page
 ![ScreenShot](index_social_mediaLinks_Bug2.jpg)
+![ScreenShot](index_social_mediaLinks_Bug1.jpg)
+
 
 Deployment
 
