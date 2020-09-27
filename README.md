@@ -15,6 +15,10 @@ UX Design Writeup: Full screen resolution for desktop and laptop computers, and 
  @media screen and (max-width: 1393px) (Tablets)
  @media screen and (max-width: 943px) (mobile devices with large screens)
  @media screen and (max-width: 800px) (mobile devices with small screens)
+ 
+ Below are screenshots of the Wireframes for the index page.
+ ![ScreenShot](wireframe_index_part1.jpg)
+ ![ScreenShot](wireframe_index_part2.jpg)
 
 I designed the UX to function across most platforms including PC's, Iphones, Ipads, and Android tablets and smartphones, I did this because Code Institute requires it as a function for the UX Milestone, but also so that the website fits the screen of whichever platform is being used at the time.
 
@@ -58,6 +62,8 @@ Bugs Found during testing:
 1. Social media links - the text and the links both split and changed from horizonal to vertical
 2. Testing projects.html page using Firefox Developer Edition wouldn't refresh the page even while holding the SHIFT key. I used Google Chrome to ensure the COMMIT was successful - The COMMIT was successful.
 
+Below is a screenshot of the Social Media bug on the index.html page
+![ScreenShot](index_social_mediaLinks_Bug2.jpg)
 
 Deployment
 
