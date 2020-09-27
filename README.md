@@ -10,6 +10,15 @@ I am looking to make the User Experience easy to process and understand, its tha
 Existing Features
 
     Feature 1 - allows potential employers to achieve viewing my projects, by having them look through my site.
+    
+ New Features
+    
+    Feature 2 - Provide a contact form for anyone to contact me.
+    Feature 3 - Prove that I am W3C Validator compliant by providing a footer link.
+    Feature 4 - Fix all bugs. I know there are still validator warnings but they are part of a different website, one that I don't own or have any access to, Code Institute is who provided the reference to them.
+    Feature 5 - Fix CSS3 and make is cleaner and more organized.
+    Feature 6 - Use GitHub directly as its faster and easier to use than both GitPod and Atom, not really a feature but it sort of is.
+    Feature 7 - Added Markup in this README.md file to show screenshots that sit in /root.
 
 UX Design Writeup: Full screen resolution for desktop and laptop computers, and automatically adjusting screen resolutions for mobile devices using this code:
  @media screen and (max-width: 1393px) (Tablets)
@@ -31,13 +40,11 @@ HTML5 -- This project started out using just basic HTML but progressed into HTML
 
 CSS3 = CSS3 was used throught the project and its origins again are vague as HTML5.. It might be apple, ibm, toshiba, lenovo, sony, microsoft, linux, arduino, python, hp...no one knows.  I am using CSS3 for this project as it provides functionality that I desire such as font size and types, as well as the ability to call upon libraries and other functions to accomplish almost everything including animations..thus replacing Adobe/Macromedia Flash as of December 2020.
 
-    Yes I have done the proper research to figure that out, that Flash will end in 2020. Due to security issues. But in my opinion, Adobe wil unveil a new version of Flash with SSL security as soon as the old one retires. This use of simple CSS and HTML is pathetic in comparision to the potential of Flash. I feel like a kindergarten child in a college class when Flash is active.  Now knowing that Flash is retiring, I feel like a computer programmer expert inside of a kindergarten website land...aka...the real world.  it doesnt seem fair.  and it won't be like this for very long. don't be upset with me because i'm a forecaster.
-
     HTML5, CSS3, Bootstrap, Python3, iframes, responsive coding, form requirements.
 
     ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     
-    The way this website has progressed is from the initial thought for it..i mean everyone needs a portfolio site. So i'm on the bandwagon now.  I will enjoy staying on focus to simplicity but also be unique.  I understand that Macromedia/Adobe Flash will end this year at Decemeber 2020, and its a real shame because Flash is amazing and nothing comes close..I think its end is due to jelousy of other companies.  After 2020, into 2021, Adobe will release a new ssl secure version of Flash that everyone has waiting on. 
+    The way this website has progressed is from the initial thought for it..i mean everyone needs a portfolio site.
     
    
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
