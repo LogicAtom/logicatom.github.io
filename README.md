@@ -123,6 +123,8 @@ Acknowledgements
     I received inspiration for this project from Code Institute
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
+    This project uses alot of code learned from the mini project created by Code Institute.
+
 *******************************
 END MS1 PROJECT NOTES
 *******************************
