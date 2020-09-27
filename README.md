@@ -19,6 +19,7 @@ UX Design Writeup: Full screen resolution for desktop and laptop computers, and 
  Below are screenshots of the Wireframes for the index page.
  ![ScreenShot](wireframe_index_part1.jpg)
  ![ScreenShot](wireframe_index_part2.jpg)
+ 
 
 I designed the UX to function across most platforms including PC's, Iphones, Ipads, and Android tablets and smartphones, I did this because Code Institute requires it as a function for the UX Milestone, but also so that the website fits the screen of whichever platform is being used at the time.
 
@@ -42,6 +43,12 @@ CSS3 = CSS3 was used throught the project and its origins again are vague as HTM
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Testing
+
+L02
+2.2
+______
+Fixed W3C validator errors so that none exist. See screenshot below
+![ScreenShot](contact_html_no_errorsW3C.jpg)
 
 I conducted testing after adding each element and after changing any code, numerous times. Tested on these browers: Firefox, Firefox Developer Edition, Google Chrome, Microsoft Edge, Safari
 On these platforms:  Microsoft Windows, Google Chromebook, Android OS, Iphone OS.
