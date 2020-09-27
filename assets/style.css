@@ -190,7 +190,7 @@ hr{
 }
 
 #times{
-    background-image: ("/assets/images/event_times_backround.jpg");
+    background-image: ("assets/images/event_times_backround.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
